@@ -2,8 +2,7 @@
 
 - 무한스크롤 구현
 - 컨텐츠의 끝이 화면 끝에 닿으면 api가 호출되게 구현
-- todolist 와 달리 외부 api 연동
-- fetch, async, await
+- fetch, async, await 사용해봄
 
 ## API 연동
 
@@ -11,7 +10,7 @@ https://jsonplaceholder.typicode.com/
 
 - 프로토타이핑용 api
 - /posts 활용
-- [json-server](https://www.npmjs.com/package/json-server) 만든 곳에서 만들었기 때문에 사용 방법은 json-server와 동일
+- [json-server](https://www.npmjs.com/package/json-server)
 
 ### removeEventListener
 
